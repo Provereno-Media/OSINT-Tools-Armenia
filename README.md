@@ -59,6 +59,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## WHOIS
 - [AM NIC](https://www.amnic.net/whois/)
 
+***
+
 ## Contributing
 
 To contribute to this repository:
